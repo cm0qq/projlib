@@ -1,0 +1,12 @@
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\projlib\projlib\bin\Debug\net6.0\projlib.deps.json
+C:\Users\Дмитрий\source\repos\projlib\projlib\bin\Debug\net6.0\projlib.dll
+C:\Users\Дмитрий\source\repos\projlib\projlib\bin\Debug\net6.0\projlib.pdb
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.dll
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\refint\projlib.dll
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\projlib.pdb
+C:\Users\Дмитрий\source\repos\projlib\projlib\obj\Debug\net6.0\ref\projlib.dll
